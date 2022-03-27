@@ -6,7 +6,14 @@
 
 body {
     font-family: Vazirmatn;
-    background: linear-gradient(to left, #2980b9, #6dd5fa, #ffffff);
+    background-image: url(../images/Background/bg-light.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+input {
+    font-family: Vazirmatn;
 }
 
 div.LoginForm {
