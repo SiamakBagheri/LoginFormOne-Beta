@@ -6,11 +6,7 @@
 
 body {
     font-family: Vazirmatn;
-    ;
-    background-image: url(/assets/img/FormLogin-BgLight.PNG);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background: linear-gradient(to left, #2980b9, #6dd5fa, #ffffff);
 }
 
 div.LoginForm {
