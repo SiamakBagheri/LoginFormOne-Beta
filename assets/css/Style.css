@@ -83,6 +83,7 @@ div.FormLogin-Submit {
 }
 
 button.Btn-Submit {
+    font-family: Vazirmatn;
     background-color: #6dd5fa;
     padding: 0.5rem 0;
     font-size: 1rem;
